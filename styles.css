@@ -1,0 +1,15 @@
+body {
+background-color: mediumspringgreen;
+background: darkred;
+    
+}
+button {
+    background: transparent;
+    color: thistle;
+    border-color: thistle;
+    
+    transition: ls;
+}
+span{
+    color: goldenrod;
+}
